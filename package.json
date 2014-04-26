@@ -1,0 +1,26 @@
+{
+  "name": "EasyStore",
+  "version": "0.0.0",
+  "description": "Single-paged app for small-scale store owners.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jjacarillo/EasyStore.git"
+  },
+  "keywords": [
+    "EasyStore",
+    "easy-store",
+    "easyStore",
+    "easy",
+    "store"
+  ],
+  "author": "Jesse Jasper Carillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjacarillo/EasyStore/issues"
+  },
+  "homepage": "https://github.com/jjacarillo/EasyStore"
+}
